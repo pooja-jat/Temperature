@@ -16,18 +16,19 @@ body {
   justify-content: space-around;
   flex-direction: column;
   height: 400px;
-  width: 30%;
+  width: 50%;
   background-color: rgb(112, 240, 197);
   border-radius: 6px;
   color: rgb(13, 12, 12);
 }
 
 .temp-container{
-    width: 100%;
+ width: 100%;
+ padding: 20px;
 font-size: 24px;
 display: flex;
 align-items: center;
-justify-content: space-around;
+justify-content: space-between;
 }
 
 .temp-container input{
